@@ -675,3 +675,18 @@
   address: 1219 rue William, Montréal, Quebec H3C 1R1
   description: French speaking engineering university. Our university has many robotics student clubs.
   link: https://www.etsmtl.ca/
+- name: Universidade Federal de Campina Grande
+  type: school
+  lat: -7.216876026013538
+  long: -35.908713602905074
+  address: R. Aprígio Veloso, 882 - Universitário, Campina Grande - PB, 58429-900
+  description: Federal University of Campina Grande in Northeast Brazil.
+  Robotics research projects and laboratories affiliated with Electrical Engineering and Computer Science centers.
+  link: https://portal.ufcg.edu.br/
+- name: Virtus
+  type: research institute
+  lat: -7.21602656240991
+  long: -35.915044715344116
+  address: R. Aprígio Veloso, 1500 - Bodocongó, Campina Grande - PB, 58429-140
+  description: Research Institute affiliated with the Electrical Engineering and Computer Science centers at the Federal University of Campina Grande.
+  link: https://www.virtus.ufcg.edu.br/
